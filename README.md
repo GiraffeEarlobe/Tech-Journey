@@ -41,8 +41,8 @@ I created this repo to:
 ## 📬 Contact
 
 If you'd like to connect or collaborate:
-- LinkedIn: [linkedin.com/in/bryantboyce](https://www.linkedin.com/in/bryantboyce) *(update once live)*
-- Email: bboyce89@outlook.com
+- LinkedIn: [linkedin.com/in/bryantboyce](https://www.linkedin.com/in/bryantboyce)
+- Email: redacted
 
 ---
 
